@@ -30,7 +30,6 @@ public class AppEAC5P3 {
     }
 
     void inici() {
-        // dadesJugadors
         String[][] dadesJugadors = {
                 { "Adria", "5" }, { "Agnes", "0" }, { "Anna", "3" }, { "Arnau", "2" },
                 { "Beth", "9" }, { "Blanca", "6" }, { "Bruna", "1" }, { "Carla", "7" },
@@ -42,7 +41,7 @@ public class AppEAC5P3 {
                 { "Paula", "9" }, { "Pep", "0" }, { "Pol", "10" }, { "Queralt", "3" },
                 { "Quim", "1" }, { "Rita", "7" }, { "Roc", "8" }, { "Roger", "9" },
                 { "Sergi", "3" }, { "Txell", "1" }, { "Xavi", "9" }, { "Alex", "4" },
-                { "Èlia", "0" }, { "Èric", "6" }, { "Marta", "7" }, { "", "" },{ "", "" }
+                { "Èlia", "0" }, { "Èric", "6" }, { "", "" },{ "", "" }
         };
         int opcio;
         do {

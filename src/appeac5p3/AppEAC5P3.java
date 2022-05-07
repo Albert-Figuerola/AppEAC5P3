@@ -42,7 +42,7 @@ public class AppEAC5P3 {
                 { "Paula", "9" }, { "Pep", "0" }, { "Pol", "10" }, { "Queralt", "3" },
                 { "Quim", "1" }, { "Rita", "7" }, { "Roc", "8" }, { "Roger", "9" },
                 { "Sergi", "3" }, { "Txell", "1" }, { "Xavi", "9" }, { "Alex", "4" },
-                { "Èlia", "0" }, { "Èric", "6" }, { "Alex", "3" }, { "", "" },{ "", "" }
+                { "Èlia", "0" }, { "Èric", "6" }, { "Marta", "7" }, { "", "" },{ "", "" }
         };
         int opcio;
         do {

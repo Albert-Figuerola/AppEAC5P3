@@ -21,10 +21,7 @@ public class DadesPartida {
         Random rnd = new Random();
         numPartides = 0;
         partidesJugades = 0;
-        // String[] nomJugadors = {"Màquina", "Anna"};
-        // int[] tornsGuanyats = {0,0};
         apostaU = 0;
-        // apostaM = 0;
         apostaM = rnd.nextInt(max + min) + min;
 
     }

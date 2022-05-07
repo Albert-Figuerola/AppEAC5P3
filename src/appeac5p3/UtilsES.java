@@ -108,11 +108,4 @@ public class UtilsES {
         System.out.println(MISSATGE_LINIA_UNICA_SEPARACIO);
     }
 
-    static void mostrarError(String missatge) {
-        System.out.println("""
-                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-                !!! No s'ha pogut enregistrar el jugador, les dades estan plenes!
-                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!""");
-    }
-
 }

@@ -41,7 +41,7 @@ public class AppEAC5P3 {
                 { "Paula", "9" }, { "Pep", "0" }, { "Pol", "10" }, { "Queralt", "3" },
                 { "Quim", "1" }, { "Rita", "7" }, { "Roc", "8" }, { "Roger", "9" },
                 { "Sergi", "3" }, { "Txell", "1" }, { "Xavi", "9" }, { "Alex", "4" },
-                { "Èlia", "0" }, { "Èric", "6" }, { "", "" },{ "", "" }
+                { "Èlia", "0" }, { "Èric", "6" }, { "", "" }, { "", "" }
         };
         int opcio;
         do {
@@ -92,12 +92,6 @@ public class AppEAC5P3 {
 
     // INICI PARTIDA
     void inciPartida(String[][] dadesJugadors, String nom, int posJug) {
-        // 1 - Demanar número jugades
-        // 1.1 - Demanar jugada
-        // 1.2 - Random Màquina
-        // 1.3 - Comprovar qui guanya
-        // 1.4 - Emmagatzemar qui ha guanyat
-        // 1.5 - Si numJugades == jugadaActual -> Sortim, sino, tornem a 1.1
         System.out.println("Començant partida...");
         separarLinies(1);
         String[] apostes = { "PEDRA", "PAPER", "TISORES" };
